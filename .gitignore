@@ -1,2 +1,5 @@
 # 忽略css文件
 index.css
+
+# mac自带文件
+.DS_Store
